@@ -105,7 +105,7 @@ public class Program
 
             if (option == "3")
             {
-                endProgram = false;
+                endProgram = true;
             }
         }
     }
