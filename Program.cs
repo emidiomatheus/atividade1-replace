@@ -1,7 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-using System;
-// Nome, email, telefone, idade
-// Menu principal: [1] Listar usuários, [2] Cadastrar novo usuário
+﻿using System;
+
 public class Program
 {
     public static void Main()
