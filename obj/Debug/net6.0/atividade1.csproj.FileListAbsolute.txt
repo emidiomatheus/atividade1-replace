@@ -1,0 +1,15 @@
+/home/matheusemidio/www/atividades-replace/atividade1/bin/Debug/net6.0/atividade1
+/home/matheusemidio/www/atividades-replace/atividade1/bin/Debug/net6.0/atividade1.deps.json
+/home/matheusemidio/www/atividades-replace/atividade1/bin/Debug/net6.0/atividade1.runtimeconfig.json
+/home/matheusemidio/www/atividades-replace/atividade1/bin/Debug/net6.0/atividade1.dll
+/home/matheusemidio/www/atividades-replace/atividade1/bin/Debug/net6.0/ref/atividade1.dll
+/home/matheusemidio/www/atividades-replace/atividade1/bin/Debug/net6.0/atividade1.pdb
+/home/matheusemidio/www/atividades-replace/atividade1/obj/Debug/net6.0/atividade1.csproj.AssemblyReference.cache
+/home/matheusemidio/www/atividades-replace/atividade1/obj/Debug/net6.0/atividade1.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheusemidio/www/atividades-replace/atividade1/obj/Debug/net6.0/atividade1.AssemblyInfoInputs.cache
+/home/matheusemidio/www/atividades-replace/atividade1/obj/Debug/net6.0/atividade1.AssemblyInfo.cs
+/home/matheusemidio/www/atividades-replace/atividade1/obj/Debug/net6.0/atividade1.csproj.CoreCompileInputs.cache
+/home/matheusemidio/www/atividades-replace/atividade1/obj/Debug/net6.0/atividade1.dll
+/home/matheusemidio/www/atividades-replace/atividade1/obj/Debug/net6.0/ref/atividade1.dll
+/home/matheusemidio/www/atividades-replace/atividade1/obj/Debug/net6.0/atividade1.pdb
+/home/matheusemidio/www/atividades-replace/atividade1/obj/Debug/net6.0/atividade1.genruntimeconfig.cache
